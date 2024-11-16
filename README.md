@@ -1,7 +1,9 @@
+![image](https://github.com/user-attachments/assets/63d9f23b-3a30-4d6e-aa13-524c3469f436)
 
 👋 Hi, I’m Venkata Ravindra Reddy!
 ===================================
 - 🌟 DevOps Engineer | Cloud Enthusiast | Automation Advocate
+<img align="right" height="300" width="300" src="https://github.com/user-attachments/assets/63d9f23b-3a30-4d6e-aa13-524c3469f436" />
 <img align="right" height="300" width="300" src="https://github.com/user-attachments/assets/0e3f6043-7fa9-4375-b770-0f078ca4e900" />
 
 👨‍💻 About Me
