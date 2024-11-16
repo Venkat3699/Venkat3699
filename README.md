@@ -26,10 +26,16 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 
 🔧 What I’m Currently Working On
 =================================
-- Building scalable CI/CD pipelines for cloud-native applications
-- Automating infrastructure provisioning using Terraform and Ansible
-- Enhancing application monitoring with Prometheus and Grafana
-- Exploring advanced features of AWS Cloud Services
+- Building and optimizing CI/CD pipelines with **Jenkins**, **GitHub Actions**.
+- Automating infrastructure provisioning using **Terraform** and **Ansible**.
+- Deploying and managing containerized applications with **Docker**, **Kubernetes**, and **Helm**.
+- Enhancing monitoring with tools like **Prometheus**, **Grafana**, and **Splunk**.
+- Implementing security measures using **IAM policies, WAF, and AWS Secret Manager**.
+- Scaling and managing cloud environments with **AWS** services.
+- Adopting **GitOps** practices with **ArgoCD** for declarative deployments.
+- Exploring advanced **Kubernetes** features for better orchestration and scalability.
+- Improving deployment efficiency with best practices in **DevOps** workflows.
+- Learning and experimenting with cutting-edge **DevOps tools and technologies**.
 - 
 
 Here are some ideas to get you started:
