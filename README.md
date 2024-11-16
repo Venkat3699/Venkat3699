@@ -1,5 +1,5 @@
 👋 Hi, I’m Venkata Ravindra Reddy!
-🌟 DevOps Engineer | Cloud Enthusiast | Automation Advocate
+- 🌟 DevOps Engineer | Cloud Enthusiast | Automation Advocate
 ==============================================================
 
 👨‍💻 About Me
