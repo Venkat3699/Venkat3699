@@ -1,8 +1,10 @@
 👋 Hi, I’m Venkata Ravindra Reddy!
 🌟 DevOps Engineer | Cloud Enthusiast | Automation Advocate
+==============================================================
 
 👨‍💻 About Me
-Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from freelance to corporate roles. My expertise lies in:
+============
+DevOps Engineer with 4+ years of experience specializing in CI/CD pipelines, cloud infrastructure, and containerization using tools like AWS, Kubernetes, and Terraform. Passionate about automating workflows, enhancing system reliability, and delivering scalable solutions. Open to collaboration and always learning!
 
 Building and automating CI/CD pipelines
 Managing cloud infrastructure on AWS
