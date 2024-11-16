@@ -38,14 +38,14 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 - Improving deployment efficiency with best practices in **DevOps** workflows.
 - Learning and experimenting with cutting-edge **DevOps tools and technologies**.
 
-🌟 Top 3 Achievements in DevOps
+🌟 Achievements
 ================================
 - Streamlined CI/CD pipeline integrations, improving development cycle efficiency.
 - Implemented infrastructure automation to reduce manual intervention and increase consistency.
 - Enhanced application security by integrating IAM roles, WAF, and Secret Manager in AWS.
 
-✨ Here are some ideas to get you started:
-======================================
+✨ Here are some ideas to get you started
+==========================================
 
 - 🔭 I’m currently working on DevOps and Cloud Technologies
 - 🌱 I’m currently learning on intergration of DevOps tools with AI
