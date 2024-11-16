@@ -14,7 +14,7 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 
 🛠️ Technical Skills
 =====================
-- **Version Control & CI/CD**: Git, GitHub, GitHub Actions, Jenkins, Maven, Basic GitLab CI
+- **Version Control & CI/CD**: ## Git, GitHub, GitHub Actions, Jenkins, Maven, Basic GitLab CI ##
 - **Containerization & Orchestration**: Docker, Docker Scout, Kubernetes (Kubeadm, EKS), Helm, Argo CD
 - **Infrastructure as Code & Automation**: Terraform, Ansible
 - **Monitoring & Logging**: Prometheus, Grafana, Splunk
