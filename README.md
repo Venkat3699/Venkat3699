@@ -54,7 +54,7 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 
 📫 Connect With Me
 ===================
-LinkedIn: https://www.linkedin.com/in/ravindrareddy36/
-GitHub: https://github.com/Venkat3699
-Email: Venkataravindrareddy12@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ravindrareddy36/
+- GitHub: https://github.com/Venkat3699
+- Email: Venkataravindrareddy12@gmail.com
 -->
