@@ -14,7 +14,7 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 
 🛠️ Technical Skills
 =====================
-- **Version Control & CI/CD**: ## Git, GitHub, GitHub Actions, Jenkins, Maven, Basic GitLab CI ##
+- **Version Control & CI/CD**: Git, GitHub, GitHub Actions, Jenkins, Maven, Basic GitLab CI
 - **Containerization & Orchestration**: Docker, Docker Scout, Kubernetes (Kubeadm, EKS), Helm, Argo CD
 - **Infrastructure as Code & Automation**: Terraform, Ansible
 - **Monitoring & Logging**: Prometheus, Grafana, Splunk
@@ -23,6 +23,14 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 - **Database Management**: MySQL, MongoDB, AWS RDS
 - **Application Security**: WAF, IAM Policies, SonarQube, Secret Manager
 - **Markup & Configuration**: YAML, Groovy
+
+🔧 What I’m Currently Working On
+=================================
+- Building scalable CI/CD pipelines for cloud-native applications
+- Automating infrastructure provisioning using Terraform and Ansible
+- Enhancing application monitoring with Prometheus and Grafana
+- Exploring advanced features of AWS Cloud Services
+- 
 
 Here are some ideas to get you started:
 
