@@ -36,16 +36,25 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 - Exploring advanced **Kubernetes** features for better orchestration and scalability.
 - Improving deployment efficiency with best practices in **DevOps** workflows.
 - Learning and experimenting with cutting-edge **DevOps tools and technologies**.
-- 
 
-Here are some ideas to get you started:
+🌟 Top 3 Achievements in DevOps
+================================
+- Streamlined CI/CD pipeline integrations, improving development cycle efficiency.
+- Implemented infrastructure automation to reduce manual intervention and increase consistency.
+- Enhanced application security by integrating IAM roles, WAF, and Secret Manager in AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Here are some ideas to get you started:
+======================================
+
+- 🔭 I’m currently working on DevOps and Cloud Technologies
+- 🌱 I’m currently learning on intergration of DevOps tools with AI
+- 👯 I’m looking to collaborate on cloud automation, CI/CD optimization, and containerized application deployments using AWS, Kubernetes, and Terraform.
+- 🤔 I’m looking for help with optimizing cloud infrastructure, automating CI/CD pipelines, and enhancing container orchestration using Kubernetes and AWS..
+- 😄 Pronouns: he/him
+
+📫 Connect With Me
+===================
+LinkedIn: https://www.linkedin.com/in/ravindrareddy36/
+GitHub: https://github.com/Venkat3699
+Email: Venkataravindrareddy12@gmail.com
 -->
