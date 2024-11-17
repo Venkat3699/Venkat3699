@@ -52,6 +52,11 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 - 👯 I’m looking to collaborate on cloud automation, CI/CD optimization, and containerized application deployments using AWS, Kubernetes, and Terraform.
 - 🤔 I’m looking for help with optimizing cloud infrastructure, automating CI/CD pipelines, and enhancing container orchestration using Kubernetes and AWS..
 - 😄 Pronouns: he/him
+  
+🎓 Certification
+==========================================
+- API Security Fundamentals - APISEC University in September 2024.
+- AWS Cloud Technical Essentials – COURSERA in February 2023.
 
 📫 Connect With Me
 ===================
