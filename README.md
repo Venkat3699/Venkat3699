@@ -1,6 +1,6 @@
 👋 Hi, I’m Venkata Ravindra Reddy!
 ===================================
-- 🌟 DevOps Engineer | Cloud Enthusiast | Automation Advocate
+- 🌟 DevOps Engineer
 <img align="right" height="300" width="300" src="https://github.com/user-attachments/assets/63d9f23b-3a30-4d6e-aa13-524c3469f436" />
 
 👨‍💻 About Me
@@ -10,13 +10,13 @@ Hi there! I'm a DevOps Engineer with 4+ years of experience, transitioning from 
 - Managing cloud infrastructure on AWS
 - Deploying containerized applications with Kubernetes, Docker, and Helm
 - Ensuring secure, scalable, and reliable systems
-- Monitoring and troubleshooting with tools like Prometheus, Grafana, and Splunk
+- Monitoring and troubleshooting with tools like Prometheus, Grafana, and ELK
 - I’m passionate about solving real-world problems by optimizing processes, automating workflows, and delivering robust, efficient solutions.
 
 🛠️ Technical Skills
 =====================
 - **Version Control & CI/CD**: Git, GitHub, GitHub Actions, Jenkins, Maven, Basic GitLab CI
-- **Containerization & Orchestration**: Docker, Docker Scout, Kubernetes (Kubeadm, EKS), Helm, Argo CD
+- **Containerization & Orchestration**: Docker, Docker Scout, Kubernetes (Kubeadm, KOPS, EKS), Helm, Argo CD
 - **Infrastructure as Code & Automation**: Terraform, Ansible
 - **Monitoring & Logging**: Prometheus, Grafana, Splunk
 - **Cloud Platforms**: AWS Cloud Services (EC2, S3, VPC, RDS, CloudFront, EKS, IAM Policies, Auto Scaling, Load Balancing, CloudWatch, CloudTrail, CodePipelines, Lambda, SNS, ECR, ECS, Route 53, WAF, Secret Manager)
